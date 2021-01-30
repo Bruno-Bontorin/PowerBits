@@ -7,24 +7,26 @@
 
 // **** ALERTA: FUNÇÃO JAVASCRIPT COM BUGS; NECESSITA ANÁLISE **** //
 const navSlide = function () {
-    const burger = document.querySelector('.menu-burger');
-    const nav = document.querySelector('.nav-links');
-    const navLinks = document.querySelectorAll('.nav-links li');
+  const burger = document.querySelector(".menu-burger");
+  const nav = document.querySelector(".nav-links");
+  const navLinks = document.querySelectorAll(".nav-links li");
 
-    //Toogle da Nav
-    burger.addEventListener('click', function () {
-        nav.classList.toggle('nav-active');
-        //Animação dos Links
-        navLinks.forEach(function (link, index) {
-            if (link.style.animation) {
-                link.style.animation = '';
-            } else {
-                link.style.animation = `navLinkFade 0.5s ease forwards ${ index / 6 + 0.3 }s`;
-            }
-        });
-
-        //Menu-burger -> Animação
-        burger.classList.toggle('toggle');
+  //Toogle da Nav
+  burger.addEventListener("click", function () {
+    nav.classList.toggle("nav-active");
+    //Animação dos Links
+    navLinks.forEach(function (link, index) {
+      if (link.style.animation) {
+        link.style.animation = "";
+      } else {
+        link.style.animation = `navLinkFade 0.5s ease forwards ${
+          index / 6 + 0.3
+        }s`;
+      }
     });
-}
+
+    //Menu-burger -> Animação
+    burger.classList.toggle("toggle");
+  });
+};
 navSlide();

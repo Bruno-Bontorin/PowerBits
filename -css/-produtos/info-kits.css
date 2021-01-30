@@ -1,4 +1,4 @@
-[id*='kit' i]::after {
+[id*="kit" i]::after {
   font-size: 105px;
   top: 50%;
   left: 50%;
@@ -6,48 +6,48 @@
 }
 
 #kit1::after {
-  content: 'Striker';
+  content: "Striker";
 }
 
 #kit2::after {
-  content: 'KaBuM';
+  content: "KaBuM";
 }
 
 #kit3::after {
-  content: 'Rocketz ';
+  content: "Rocketz ";
 }
 
 #kit4::after {
-  content: 'Pichau';
+  content: "Pichau";
 }
 
 #kit5::after {
-  content: 'AMD';
+  content: "AMD";
 }
 #kit6::after {
-  content: 'AMD';
+  content: "AMD";
 }
 
 #kit7::after {
-  content: 'AMD';
+  content: "AMD";
 }
 
 #kit8::after {
-  content: 'AMD';
+  content: "AMD";
 }
 
 #kit9::after {
-  content: 'Intel';
+  content: "Intel";
 }
 
 #kit10::after {
-  content: 'Intel';
+  content: "Intel";
 }
 
 #kit11::after {
-  content: 'Intel';
+  content: "Intel";
 }
 
 #kit12::after {
-  content: 'Intel';
+  content: "Intel";
 }

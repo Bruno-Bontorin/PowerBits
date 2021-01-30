@@ -1,16 +1,16 @@
 /* [id*="card" i] = Seletor CSS que aplica estilos para todos os 'ids' que contenham a palavra 'card', seja apenas "card" ou "card..." */
-[id*='card' i]::after {
+[id*="card" i]::after {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
 #card1::after {
-  content: 'Ripjaw';
+  content: "Ripjaw";
 }
 
 #card2::after {
-  content: 'HyperX';
+  content: "HyperX";
 }
 
 .cartao .infoCartao .cor.cor2 span:nth-child(4) {
@@ -18,7 +18,7 @@
 }
 
 #card3::after {
-  content: 'Corsair';
+  content: "Corsair";
   font-size: 105px;
 }
 
@@ -27,7 +27,7 @@
 }
 
 #card4::after {
-  content: 'HyperX';
+  content: "HyperX";
 }
 
 .cartao .infoCartao .cor.cor4 span:nth-child(4) {
@@ -35,12 +35,12 @@
 }
 
 #card5::after {
-  content: 'Corsair';
+  content: "Corsair";
   font-size: 105px;
 }
 
 #card6::after {
-  content: 'GSkill';
+  content: "GSkill";
 }
 
 .cartao .infoCartao .cor.cor6 span:nth-child(4) {
@@ -48,11 +48,11 @@
 }
 
 #card7::after {
-  content: 'HyperX';
+  content: "HyperX";
 }
 
 #card8::after {
-  content: 'TGroup';
+  content: "TGroup";
   font-size: 90px;
 }
 
@@ -61,7 +61,7 @@
 }
 
 #card9::after {
-  content: 'ASrock';
+  content: "ASrock";
   font-size: 90px;
 }
 
@@ -70,17 +70,17 @@
 }
 
 #card10::after {
-  content: 'Gigabyte';
+  content: "Gigabyte";
   font-size: 80px;
 }
 
 #card11::after {
-  content: 'ASrock';
+  content: "ASrock";
   font-size: 90px;
 }
 
 #card12::after {
-  content: 'Asus';
+  content: "Asus";
   font-size: 90px;
 }
 
@@ -89,7 +89,7 @@
 }
 
 #card13::after {
-  content: 'Asus';
+  content: "Asus";
 }
 
 .cartao .infoCartao .cor.cor13 span:nth-child(4) {
@@ -97,7 +97,7 @@
 }
 
 #card14::after {
-  content: 'Asus';
+  content: "Asus";
 }
 
 .cartao .infoCartao .cor.cor14 span:nth-child(4) {
@@ -105,48 +105,48 @@
 }
 
 #card15::after {
-  content: 'ASrock';
+  content: "ASrock";
   font-size: 90px;
 }
 
 #card16::after {
-  content: 'Asus';
+  content: "Asus";
   font-size: 90px;
 }
 
 #card17::after {
-  content: 'HyperX';
+  content: "HyperX";
   font-size: 80px;
 }
 
 #card18::after {
-  content: 'Logitech';
+  content: "Logitech";
   font-size: 80px;
 }
 
 #card19::after {
-  content: 'Asus';
+  content: "Asus";
 }
 
 #card20::after {
-  content: 'HP';
+  content: "HP";
 }
 
 #card21::after {
-  content: 'Dell';
+  content: "Dell";
 }
 
 #card22::after {
-  content: 'Logitech';
+  content: "Logitech";
   font-size: 80px;
 }
 
 #card23::after {
-  content: 'OEX';
+  content: "OEX";
 }
 
 #card24::after {
-  content: 'Microsoft';
+  content: "Microsoft";
   font-size: 80px;
 }
 
@@ -155,22 +155,22 @@
 }
 
 #card25::after {
-  content: 'Adamantiun';
+  content: "Adamantiun";
   font-size: 50px;
 }
 
 #card26::after {
-  content: 'Redragon';
+  content: "Redragon";
   font-size: 60px;
 }
 
 #card27::after {
-  content: 'Pichau';
+  content: "Pichau";
   font-size: 60px;
 }
 
 #card28::after {
-  content: 'Dazz';
+  content: "Dazz";
   font-size: 60px;
 }
 
@@ -179,27 +179,27 @@
 }
 
 #card29::after {
-  content: 'Apple';
+  content: "Apple";
   font-size: 105px;
 }
 
 #card30::after {
-  content: 'Microsoft';
+  content: "Microsoft";
   font-size: 80px;
 }
 
 #card31::after {
-  content: 'Logitech';
+  content: "Logitech";
   font-size: 80px;
 }
 
 #card32::after {
-  content: 'Magic';
+  content: "Magic";
   font-size: 80px;
 }
 
 #card33::after {
-  content: 'Magic';
+  content: "Magic";
   font-size: 80px;
 }
 
@@ -208,17 +208,17 @@
 }
 
 #card34::after {
-  content: 'Magic';
+  content: "Magic";
   font-size: 80px;
 }
 
 #card35::after {
-  content: 'Magic';
+  content: "Magic";
   font-size: 80px;
 }
 
 #card36::after {
-  content: 'Magic';
+  content: "Magic";
   font-size: 80px;
 }
 
@@ -227,21 +227,21 @@
 }
 
 #card37::after {
-  content: 'Razer';
+  content: "Razer";
 }
 
 #card38::after {
-  content: 'HyperX';
+  content: "HyperX";
   font-size: 80px;
 }
 
 #card39::after {
-  content: 'Logitech';
+  content: "Logitech";
   font-size: 80px;
 }
 
 #card40::after {
-  content: 'Asus';
+  content: "Asus";
 }
 
 .cartao .infoCartao .cor.cor40 span:nth-child(4) {
@@ -249,178 +249,178 @@
 }
 
 #card41::after {
-  content: 'Asus';
+  content: "Asus";
 }
 
 #card42::after {
-  content: 'NVIDIA';
+  content: "NVIDIA";
   font-size: 90px;
 }
 
 #card43::after {
-  content: 'NVIDIA';
+  content: "NVIDIA";
   font-size: 90px;
 }
 
 #card44::after {
-  content: 'NVIDIA';
+  content: "NVIDIA";
   font-size: 90px;
 }
 
 #card45::after {
-  content: 'NVIDIA';
+  content: "NVIDIA";
   font-size: 90px;
 }
 
 #card46::after {
-  content: 'NVIDIA';
+  content: "NVIDIA";
   font-size: 90px;
 }
 
 #card47::after {
-  content: 'NVIDIA';
+  content: "NVIDIA";
   font-size: 90px;
 }
 
 #card48::after {
-  content: 'NVIDIA';
+  content: "NVIDIA";
   font-size: 90px;
 }
 
 #card49::after {
-  content: 'Intel';
+  content: "Intel";
   font-size: 90px;
 }
 
 #card50::after {
-  content: 'Intel';
+  content: "Intel";
   font-size: 90px;
 }
 
 #card51::after {
-  content: 'Intel';
+  content: "Intel";
   font-size: 90px;
 }
 
 #card52::after {
-  content: 'Intel';
+  content: "Intel";
   font-size: 90px;
 }
 
 #card53::after {
-  content: 'AMD';
+  content: "AMD";
   font-size: 90px;
 }
 
 #card54::after {
-  content: 'AMD';
+  content: "AMD";
   font-size: 90px;
 }
 
 #card55::after {
-  content: 'AMD';
+  content: "AMD";
   font-size: 90px;
 }
 
 #card56::after {
-  content: 'AMD';
+  content: "AMD";
   font-size: 90px;
 }
 
 #card57::after {
-  content: 'LG';
+  content: "LG";
 }
 
 #card58::after {
-  content: 'Samsug';
+  content: "Samsug";
   font-size: 80px;
 }
 
 #card59::after {
-  content: 'AOC';
+  content: "AOC";
 }
 
 #card60::after {
-  content: 'Acer';
+  content: "Acer";
 }
 
 #card61::after {
-  content: 'Dell';
+  content: "Dell";
 }
 
 #card62::after {
-  content: 'Husky';
+  content: "Husky";
 }
 
 #card63::after {
-  content: 'Pcfort';
+  content: "Pcfort";
   font-size: 95px;
 }
 
 #card64::after {
-  content: 'LG';
+  content: "LG";
 }
 
 #card65::after {
-  content: 'Husky';
+  content: "Husky";
 }
 
 #card66::after {
-  content: 'Skill';
+  content: "Skill";
 }
 
 #card67::after {
-  content: 'Aerocool';
+  content: "Aerocool";
   font-size: 95px;
 }
 
 #card68::after {
-  content: 'LianLi';
+  content: "LianLi";
   font-size: 95px;
 }
 
 #card69::after {
-  content: 'Western';
+  content: "Western";
   font-size: 80px;
 }
 
 #card70::after {
-  content: 'Seagate';
+  content: "Seagate";
   font-size: 80px;
 }
 
 #card71::after {
-  content: 'Seagate';
+  content: "Seagate";
   font-size: 80px;
 }
 
 #card72::after {
-  content: 'Seagate';
+  content: "Seagate";
   font-size: 80px;
 }
 
 #card73::after {
-  content: 'Western';
+  content: "Western";
   font-size: 80px;
 }
 
 #card74::after {
-  content: 'Sandisk';
+  content: "Sandisk";
   font-size: 80px;
 }
 
 #card75::after {
-  content: 'Crucial';
+  content: "Crucial";
   font-size: 80px;
 }
 
 #card76::after {
-  content: 'Corsair';
+  content: "Corsair";
   font-size: 80px;
 }
 
 #card77::after {
-  content: 'Multilaser';
+  content: "Multilaser";
   font-size: 60px;
 }
 
@@ -429,7 +429,7 @@
 }
 
 #card78::after {
-  content: 'Sandisk';
+  content: "Sandisk";
   font-size: 80px;
 }
 
@@ -438,7 +438,7 @@
 }
 
 #card79::after {
-  content: 'Kingston';
+  content: "Kingston";
   font-size: 70px;
 }
 
@@ -447,7 +447,7 @@
 }
 
 #card80::after {
-  content: 'HP';
+  content: "HP";
 }
 
 .cartao .infoCartao .cor.cor80 span:nth-child(2) {
@@ -455,12 +455,12 @@
 }
 
 #card81::after {
-  content: 'Multilaser';
+  content: "Multilaser";
   font-size: 60px;
 }
 
 #card82::after {
-  content: 'Sandisk';
+  content: "Sandisk";
   font-size: 80px;
 }
 
@@ -469,7 +469,7 @@
 }
 
 #card83::after {
-  content: 'Kingston';
+  content: "Kingston";
   font-size: 70px;
 }
 
@@ -478,7 +478,7 @@
 }
 
 #card84::after {
-  content: 'HP';
+  content: "HP";
 }
 
 .cartao .infoCartao .cor.cor84 span:nth-child(2) {
@@ -486,19 +486,19 @@
 }
 
 #card85::after {
-  content: 'JBL';
+  content: "JBL";
 }
 
 #card86::after {
-  content: 'JBL';
+  content: "JBL";
 }
 
 #card87::after {
-  content: 'Multilaser';
+  content: "Multilaser";
   font-size: 60px;
 }
 
 #card88::after {
-  content: 'Multilaser';
+  content: "Multilaser";
   font-size: 60px;
 }
